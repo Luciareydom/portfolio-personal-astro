@@ -1,4 +1,5 @@
 # Mi portafolio personal
+Este es mi portafolio para toda la comunidad
 
 # Enlaces recomendados
 
